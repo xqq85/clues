@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="clues_web:war" />
+      <artifact name="clues_web:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c6db6704-0d00-476f-8c0f-7fab48714902" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/develop/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\develop\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iaxEfZ7deYdGfLLT5hNcoSrKgk" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/clues_web/src/main/webapp/pages" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\clues\clues_web\src\main\webapp\pages" />
+      <recent name="D:\IdeaProjects\clues\clues_utils\src\main\java\jump\utils" />
+      <recent name="D:\IdeaProjects\clues\clues_utils\src\main\java\jump\utils\exception" />
+      <recent name="D:\IdeaProjects\clues\clues_utils\src\main\java\jump\utils\constants" />
+      <recent name="D:\IdeaProjects\clues\clues_web\src\main\webapp\plugins\file-upload" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="jump.domain" />
+      <recent name="jump.dao" />
+      <recent name="jump.service.impl" />
+      <recent name="jump.service" />
+      <recent name="jump.controller" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\clues\clues_web\src\main\resources" />
+      <recent name="D:\IdeaProjects\clues\clues_web\src\main\resources\properties" />
+      <recent name="D:\IdeaProjects\clues\clues_web\src\main\webapp" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.clues">
+    <configuration name="RandomString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jump.utils.RandomString" />
+      <module name="clues_utils" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jump.utils.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.31" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8081/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_clues" />
+        <option name="HTTP_PORT" value="8081" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="56340" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clues" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.31" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="COMMON_VM_ARGUMENTS" value="-mx2048m -XX:MaxPermSize=128m" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="HOT_SWAP_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="clues_web:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/clues_web_war" />
+          </settings>
+        </artifact>
+        <artifact name="clues_web:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/clues_web_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_clues" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="60400" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="clues_web:war" />
+          <artifact name="clues_web:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="email" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.31" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="COMMON_VM_ARGUMENTS" value="-mx2048m -XX:MaxPermSize=128m" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_8_5_31_(1)_clues" />
+        <option name="HTTP_PORT" value="8081" />
+        <option name="JNDI_PORT" value="1098" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="56340" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="Make" enabled="true" />
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.RandomString" />
+      <item itemvalue="Tomcat Server.email" />
+      <item itemvalue="Tomcat Server.clues" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RandomString" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6db6704-0d00-476f-8c0f-7fab48714902" name="Default Changelist" comment="" />
+      <created>1602159393323</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602159393323</updated>
+      <workItem from="1602159394646" duration="2060000" />
+      <workItem from="1602161615165" duration="4447000" />
+      <workItem from="1602166169000" duration="1830000" />
+      <workItem from="1602216330149" duration="16140000" />
+      <workItem from="1602251498689" duration="7000" />
+      <workItem from="1602255826882" duration="1738000" />
+      <workItem from="1602298270697" duration="25000" />
+      <workItem from="1602298299811" duration="21040000" />
+      <workItem from="1602328830536" duration="6197000" />
+      <workItem from="1602338452867" duration="5000" />
+      <workItem from="1602474169677" duration="16994000" />
+      <workItem from="1602514413287" duration="3664000" />
+      <workItem from="1602566849602" duration="30543000" />
+      <workItem from="1602641904877" duration="23612000" />
+      <workItem from="1602674647038" duration="65000" />
+      <workItem from="1602674867775" duration="3071000" />
+      <workItem from="1602677986613" duration="11355000" />
+      <workItem from="1602739600296" duration="8034000" />
+      <workItem from="1602826942554" duration="11000" />
+      <workItem from="1602827182576" duration="81000" />
+      <workItem from="1602827306491" duration="170000" />
+      <workItem from="1602828075816" duration="1525000" />
+      <workItem from="1602829604799" duration="1793000" />
+      <workItem from="1602831592779" duration="600000" />
+      <workItem from="1602832195914" duration="15661000" />
+      <workItem from="1602850324421" duration="6416000" />
+      <workItem from="1602857394764" duration="176000" />
+      <workItem from="1602917772586" duration="66000" />
+      <workItem from="1602933065006" duration="827000" />
+      <workItem from="1602947585317" duration="18000" />
+      <workItem from="1602949289684" duration="26000" />
+      <workItem from="1602949884673" duration="39000" />
+      <workItem from="1602949993451" duration="18000" />
+      <workItem from="1602950042601" duration="17000" />
+      <workItem from="1603091062749" duration="1435000" />
+      <workItem from="1603092940379" duration="1654000" />
+      <workItem from="1603094680809" duration="36000" />
+      <workItem from="1603095526455" duration="1032000" />
+      <workItem from="1603096645694" duration="8000" />
+      <workItem from="1603097010949" duration="99000" />
+      <workItem from="1603097275726" duration="69000" />
+      <workItem from="1603098008973" duration="143000" />
+      <workItem from="1603099167384" duration="72000" />
+      <workItem from="1603099869802" duration="200000" />
+      <workItem from="1603100995484" duration="81000" />
+      <workItem from="1603101876690" duration="337000" />
+      <workItem from="1603102233155" duration="15000" />
+      <workItem from="1603102418845" duration="82000" />
+      <workItem from="1603102876938" duration="90000" />
+      <workItem from="1603103371261" duration="21000" />
+      <workItem from="1603103529810" duration="135000" />
+      <workItem from="1603103679327" duration="44000" />
+      <workItem from="1603103937255" duration="285000" />
+      <workItem from="1603104430964" duration="75000" />
+      <workItem from="1603107220026" duration="98000" />
+      <workItem from="1603108642183" duration="404000" />
+      <workItem from="1603109678468" duration="709000" />
+      <workItem from="1603110680415" duration="174000" />
+      <workItem from="1603111728992" duration="7000" />
+      <workItem from="1603111740821" duration="935000" />
+      <workItem from="1603120241104" duration="4000" />
+      <workItem from="1603173802914" duration="4413000" />
+      <workItem from="1603196527747" duration="37000" />
+      <workItem from="1603198263808" duration="1269000" />
+      <workItem from="1603203826858" duration="10000" />
+      <workItem from="1603261450455" duration="15774000" />
+      <workItem from="1603286255621" duration="8135000" />
+      <workItem from="1603294518807" duration="2036000" />
+      <workItem from="1603345079616" duration="8930000" />
+      <workItem from="1603354744259" duration="574000" />
+      <workItem from="1603355321839" duration="5000" />
+      <workItem from="1603355348669" duration="1923000" />
+      <workItem from="1603358050630" duration="29000" />
+      <workItem from="1603897172426" duration="1204000" />
+      <workItem from="1603958607095" duration="77000" />
+      <workItem from="1603973382064" duration="6740000" />
+      <workItem from="1603981569995" duration="3884000" />
+      <workItem from="1604039263541" duration="49000" />
+      <workItem from="1604039400921" duration="80000" />
+      <workItem from="1604041334506" duration="305000" />
+      <workItem from="1604043432386" duration="832000" />
+      <workItem from="1604044323779" duration="53000" />
+      <workItem from="1604044389739" duration="143000" />
+      <workItem from="1604044544503" duration="714000" />
+      <workItem from="1604045738109" duration="10445000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/clues_service/src/main/java/jump/service/impl/PublicSeaCluesServiceImpl.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/clues_service/src/main/java/jump/service/impl/ProductServiceImpl.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
