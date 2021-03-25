@@ -5,9 +5,9 @@
 ## 系统功能模块
 ### 1、登录/注销
 ###### 登录页面
-![avator](https://github.com/xqq85/clues/raw/master/imgs/fe18e31d9ac816c7d2b510f2ce1ebb1.png)
+![avator](https://github.com/xqq85/clues/raw/main/imgs/fe18e31d9ac816c7d2b510f2ce1ebb1.png)
 ###### 注销页面
-![avator](/imgs/a4e05cc6ab51163dc584d9e7603b205.png)
+![avator](https://github.com/xqq85/clues/raw/main/imgs/a4e05cc6ab51163dc584d9e7603b205.png)
 
 
 
