@@ -14,7 +14,7 @@
 ### 2、系统管理分为三个部分：用户管理、角色管理、资源权限管理
 ##### 2.1 用户管理用于管理用户的基本信息，包括新建用户、修改用户、添加角色功能
 ###### 用户信息页面
-![avator](https://github.com/xqq85/clues/tree/main/imgs/1933ef754d1a542efdf1ad28781f788.png)
+![avator](https://raw.githubusercontent.com/xqq85/clues/main/imgs/1933ef754d1a542efdf1ad28781f788.png)
 ###### 新建用户页面
 ![avator](https://github.com/xqq85/clues/tree/main/imgs/46bc12b9c782f5e71adf080fd0a7fa2.png)
 ###### 修改用户页面
